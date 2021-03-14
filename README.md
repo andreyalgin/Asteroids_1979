@@ -1,2 +1,2 @@
-# Unity3D
+# Asteroids_1979
 Test projects
