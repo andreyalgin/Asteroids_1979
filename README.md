@@ -1,2 +1,2 @@
 # Asteroids_1979
-Test projects
+Test task from qmobi
